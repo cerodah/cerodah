@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**cerodah/cerodah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity specialist attempt. I do as a hobby ctfs
+Contact: 
+* :left_speech_bubble: Telegram: cerodah
+  
+* :bust_in_silhouette: Reddit: u/0sayoyam
 
-Here are some ideas to get you started:
+* :envelope_with_arrow: MailTor: meretec@mail2tor.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![meretec](https://user-images.githubusercontent.com/82907557/129582116-9fe63723-0be7-4277-b0b0-10fa018eed2e.png)
+
+![Meretec's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerodah&show_icons=true&theme=radical)
+
+
+
+
+  
+  
