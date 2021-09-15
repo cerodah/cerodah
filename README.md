@@ -11,7 +11,7 @@ Contact:
 
 ![meretec](https://user-images.githubusercontent.com/82907557/129582116-9fe63723-0be7-4277-b0b0-10fa018eed2e.png)
 
-![Meretec's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerodah&show_icons=true&theme=radical)                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerodah&langs_count=8)](https://github.com/cerodah/github-readme-stats)
+![Meretec's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerodah&show_icons=true&theme=radical)                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerdah&langs_count=8)](https://github.com/cerodah/github-readme-stats)
 
 
 
