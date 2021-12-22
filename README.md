@@ -2,7 +2,7 @@
 
 Cybersecurity specialist attempt. I do as a hobby ctfs.
 
-Certificate in "Ciberseguridad en el Teletrabajo (Google, INCIBE)" and in "Introducción en seguridad cibernética (CISCO Ciberseguridad)".
+Certificate in "Ciberseguridad en el Teletrabajo (Google, INCIBE)" and in "Introducción en Seguridad Cibernética (CISCO Ciberseguridad)".
 
 Contact: 
 * :left_speech_bubble: Telegram: cerodah
