@@ -1,8 +1,10 @@
 ### Meretec Presentation :shipit:
 
 Cybersecurity specialist attempt. I do as a hobby ctfs.
-
-Certificate in "Ciberseguridad en el Teletrabajo (Google, INCIBE)" and in "Introducción en Seguridad Cibernética (CISCO Ciberseguridad)".
+Certificates:
+* Google, INCIBE: Ciberseguridad en el Teletrabajo.
+* CISCO Ciberseguridad: Introducción en Seguridad Cibernética.
+* CISCO LINUX: NDG Linux Unhatched.
 
 Contact: 
 * :left_speech_bubble: Telegram: cerodah
