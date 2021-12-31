@@ -4,7 +4,7 @@ Cybersecurity specialist attempt. I do as a hobby ctfs.
 
 Certificates:
 * Google, INCIBE: Ciberseguridad en el Teletrabajo.
-* CISCO Ciberseguridad: Introducción en Seguridad Cibernética.
+* CISCO Ciberseguridad: Introducción en Seguridad Cibernética, Cybersecurity Essentials.
 * CISCO LINUX: NDG Linux Unhatched.
 
 Contact: 
