@@ -1,6 +1,6 @@
 ### Meretec Presentation :shipit:
 
-Cybersecurity specialist attempt. I do as a hobby ctfs.
+Cybersecurity specialist attempt. I do as a hobby ctfs. Cybersecurity student.
 
 *   Certificates:
     *   Google, INCIBE: Ciberseguridad en el Teletrabajo.
