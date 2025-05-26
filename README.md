@@ -15,7 +15,7 @@ Contact:
 
 * :left_speech_bubble: Discord: calomatt#1716
 
-* :envelope_with_arrow: MailTor: meretec@mail2tor.com
+* :envelope_with_arrow: ProtonMail: cerodah@proton.me
 
 
 
